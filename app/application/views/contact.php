@@ -69,10 +69,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <h1>Contact</h1>
     <div id="body">
         <ul style="list-style-type:circle;">
-            <li>Nama : Hayu Ajeng Radriyantami</li>
-            <li>Email : hayuajeng@gmail.com</li>
-            <li>HP : 081280081275</li>
-            <li>Web : https://hayuradriyantamii.blogspot.com/</li>
+            <li>Nama : Rani Listian Anggraeni</li>
+            <li>Email : archiveofarche@gmail.com/li>
+            <li>HP : 085222280608</li>
+            <li>Web : https://ranilistiana.blogspot.com/</li>
         </ul>
     </div>
     <p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
